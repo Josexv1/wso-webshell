@@ -4,7 +4,7 @@ This is a Copy of the WSO webshell made by @Hardlinux @Twelp that got eliminated
 
 This is a real hacking Webshell widely used by hackers to backdoor hacked websites, it's flawed as malware by almost every AV and probably your webhosting service will delete the file ASAP, so you need to encode it with a PHP service, with `base64` or other method.
 
-All WSO 4.2.5 password is `root`
+All WSO 4.2.5 password is `admin`
 404 WSO 2.4 password is `404`
 
 You can change it in the code.
