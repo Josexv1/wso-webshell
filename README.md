@@ -18,3 +18,4 @@ If you need any help or want your modded webshell to be added here, open an issu
 * `wso_v_4.2.5.php` is the latest master known in the original repo. It has a `Watching webshell!` part that will email the link of the webshell when used for the first time.
 * `wso_v_4.2.5-non-backdored` > WSO 4.2.5 latest, it's the same file but without the email function.
 * `WSO(2.4)_with_error_404_hidden` is an OLD webshell that got modified to show a 404 Error, it has a hidden password field use `TAB` to type in it.
+* `wso.5.1.4.php` This webshell have a proxy function that needs PHP Curl, that normaly is NOT installed in some servers, if you encounter the issue, just delete the function, it also have a watchshell function that emails the link of the webshell to the email in the code, edit it.
